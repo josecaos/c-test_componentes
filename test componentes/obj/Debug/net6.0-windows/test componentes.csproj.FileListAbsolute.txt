@@ -1,0 +1,24 @@
+C:\Users\jazzv\OneDrive\Escritorio\traffic.bolt\tulum\repos\tests\test componentes\test componentes\bin\Debug\net6.0-windows\test componentes.exe
+C:\Users\jazzv\OneDrive\Escritorio\traffic.bolt\tulum\repos\tests\test componentes\test componentes\bin\Debug\net6.0-windows\test componentes.deps.json
+C:\Users\jazzv\OneDrive\Escritorio\traffic.bolt\tulum\repos\tests\test componentes\test componentes\bin\Debug\net6.0-windows\test componentes.runtimeconfig.json
+C:\Users\jazzv\OneDrive\Escritorio\traffic.bolt\tulum\repos\tests\test componentes\test componentes\bin\Debug\net6.0-windows\test componentes.dll
+C:\Users\jazzv\OneDrive\Escritorio\traffic.bolt\tulum\repos\tests\test componentes\test componentes\bin\Debug\net6.0-windows\test componentes.pdb
+C:\Users\jazzv\OneDrive\Escritorio\traffic.bolt\tulum\repos\tests\test componentes\test componentes\obj\Debug\net6.0-windows\test componentes.csproj.AssemblyReference.cache
+C:\Users\jazzv\OneDrive\Escritorio\traffic.bolt\tulum\repos\tests\test componentes\test componentes\obj\Debug\net6.0-windows\CustomButton.g.cs
+C:\Users\jazzv\OneDrive\Escritorio\traffic.bolt\tulum\repos\tests\test componentes\test componentes\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\jazzv\OneDrive\Escritorio\traffic.bolt\tulum\repos\tests\test componentes\test componentes\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\jazzv\OneDrive\Escritorio\traffic.bolt\tulum\repos\tests\test componentes\test componentes\obj\Debug\net6.0-windows\test componentes_MarkupCompile.cache
+C:\Users\jazzv\OneDrive\Escritorio\traffic.bolt\tulum\repos\tests\test componentes\test componentes\obj\Debug\net6.0-windows\test componentes_MarkupCompile.lref
+C:\Users\jazzv\OneDrive\Escritorio\traffic.bolt\tulum\repos\tests\test componentes\test componentes\obj\Debug\net6.0-windows\CustomButton.baml
+C:\Users\jazzv\OneDrive\Escritorio\traffic.bolt\tulum\repos\tests\test componentes\test componentes\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\jazzv\OneDrive\Escritorio\traffic.bolt\tulum\repos\tests\test componentes\test componentes\obj\Debug\net6.0-windows\test componentes.g.resources
+C:\Users\jazzv\OneDrive\Escritorio\traffic.bolt\tulum\repos\tests\test componentes\test componentes\obj\Debug\net6.0-windows\test componentes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jazzv\OneDrive\Escritorio\traffic.bolt\tulum\repos\tests\test componentes\test componentes\obj\Debug\net6.0-windows\test componentes.AssemblyInfoInputs.cache
+C:\Users\jazzv\OneDrive\Escritorio\traffic.bolt\tulum\repos\tests\test componentes\test componentes\obj\Debug\net6.0-windows\test componentes.AssemblyInfo.cs
+C:\Users\jazzv\OneDrive\Escritorio\traffic.bolt\tulum\repos\tests\test componentes\test componentes\obj\Debug\net6.0-windows\test componentes.csproj.CoreCompileInputs.cache
+C:\Users\jazzv\OneDrive\Escritorio\traffic.bolt\tulum\repos\tests\test componentes\test componentes\obj\Debug\net6.0-windows\test componentes.dll
+C:\Users\jazzv\OneDrive\Escritorio\traffic.bolt\tulum\repos\tests\test componentes\test componentes\obj\Debug\net6.0-windows\refint\test componentes.dll
+C:\Users\jazzv\OneDrive\Escritorio\traffic.bolt\tulum\repos\tests\test componentes\test componentes\obj\Debug\net6.0-windows\test componentes.pdb
+C:\Users\jazzv\OneDrive\Escritorio\traffic.bolt\tulum\repos\tests\test componentes\test componentes\obj\Debug\net6.0-windows\test componentes.genruntimeconfig.cache
+C:\Users\jazzv\OneDrive\Escritorio\traffic.bolt\tulum\repos\tests\test componentes\test componentes\obj\Debug\net6.0-windows\ref\test componentes.dll
+C:\Users\jazzv\OneDrive\Escritorio\traffic.bolt\tulum\repos\tests\test componentes\test componentes\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
