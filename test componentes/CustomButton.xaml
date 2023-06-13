@@ -6,8 +6,8 @@
              xmlns:local="clr-namespace:test_componentes"
              mc:Ignorable="d" 
              d:DesignHeight="50" d:DesignWidth="160">
-    <Button Background="Coral">
-        <StackPanel Orientation="Vertical">
+    <Button Background="Coral" Height="50" Width="160">
+        <StackPanel Orientation="Horizontal">
             <TextBlock Text="Custom Button"/>
         </StackPanel>
     </Button>

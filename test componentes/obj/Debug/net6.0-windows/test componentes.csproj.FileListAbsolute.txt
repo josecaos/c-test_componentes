@@ -7,6 +7,7 @@ C:\Users\jazzv\OneDrive\Escritorio\traffic.bolt\tulum\repos\tests\test component
 C:\Users\jazzv\OneDrive\Escritorio\traffic.bolt\tulum\repos\tests\test componentes\test componentes\obj\Debug\net6.0-windows\CustomButton.g.cs
 C:\Users\jazzv\OneDrive\Escritorio\traffic.bolt\tulum\repos\tests\test componentes\test componentes\obj\Debug\net6.0-windows\MainWindow.g.cs
 C:\Users\jazzv\OneDrive\Escritorio\traffic.bolt\tulum\repos\tests\test componentes\test componentes\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\jazzv\OneDrive\Escritorio\traffic.bolt\tulum\repos\tests\test componentes\test componentes\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
 C:\Users\jazzv\OneDrive\Escritorio\traffic.bolt\tulum\repos\tests\test componentes\test componentes\obj\Debug\net6.0-windows\test componentes_MarkupCompile.cache
 C:\Users\jazzv\OneDrive\Escritorio\traffic.bolt\tulum\repos\tests\test componentes\test componentes\obj\Debug\net6.0-windows\test componentes_MarkupCompile.lref
 C:\Users\jazzv\OneDrive\Escritorio\traffic.bolt\tulum\repos\tests\test componentes\test componentes\obj\Debug\net6.0-windows\CustomButton.baml
@@ -21,4 +22,3 @@ C:\Users\jazzv\OneDrive\Escritorio\traffic.bolt\tulum\repos\tests\test component
 C:\Users\jazzv\OneDrive\Escritorio\traffic.bolt\tulum\repos\tests\test componentes\test componentes\obj\Debug\net6.0-windows\test componentes.pdb
 C:\Users\jazzv\OneDrive\Escritorio\traffic.bolt\tulum\repos\tests\test componentes\test componentes\obj\Debug\net6.0-windows\test componentes.genruntimeconfig.cache
 C:\Users\jazzv\OneDrive\Escritorio\traffic.bolt\tulum\repos\tests\test componentes\test componentes\obj\Debug\net6.0-windows\ref\test componentes.dll
-C:\Users\jazzv\OneDrive\Escritorio\traffic.bolt\tulum\repos\tests\test componentes\test componentes\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
